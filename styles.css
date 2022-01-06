@@ -1,0 +1,24 @@
+body{
+  background-color: #F5F5F5;
+}
+h1{
+  color:#66BFBF;
+  text-decoration: underline;
+  text-shadow: 2px 2px 2px #CA965C;
+}
+h3{
+  color:#66BFBF;
+  text-shadow: 0 2px orange;
+}
+h2
+{
+    color:#66BFBF;
+}
+hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-color: blue;
+  border-width:10px;
+  width: 10%;
+
+}
